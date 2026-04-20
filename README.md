@@ -1,53 +1,134 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="assets/welcome.jpg" alt="Tiawa — Short links with Africa-first insights" width="100%">
 </p>
 
-## About Laravel
+# Tiawa — Smarter Short Links for Africa
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+> Shorten URLs, generate QR codes, and track every click — built for businesses growing across Africa and beyond.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Tiawa is a modern link management platform that turns long, unwieldy URLs into clean, shareable short links — instantly, with no login required. Every link comes with a free QR code and, for registered users, powerful click analytics to understand exactly who is engaging with your content and from where.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## ✨ Key Features
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Instant URL Shortening** — Convert any long URL into a compact short link in under a second. No account needed to get started.
+- **QR Code Generation** — Every short link automatically gets a scannable QR code, ready to share digitally or print on physical materials.
+- **Click Analytics** — Track every click with device type, browser, time of day, and geographic location data (available on registration).
+- **Africa-First Insights** — Audience breakdowns tailored for the African market: Ghana, Nigeria, Kenya, and beyond.
+- **Rate-Limited & Fair** — Free usage is IP-limited to 10 links per hour to keep the service fast and available for everyone.
+- **Developer API** — Integrate link shortening and analytics directly into your SaaS, app, or client campaigns.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 🖥️ The Interface
 
-## Laravel Sponsors
+The landing page gives any visitor immediate access to the URL shortener — no sign-up friction, no paywall. Paste a long URL, click **Shorten Link**, and within a second you have:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- A short link (e.g. `https://tiawa.co/woe8qgf`) ready to copy
+- A downloadable QR code alongside it
+- A prompt to create a free account for full analytics
 
-### Premium Partners
+<p align="center">
+  <img src="assets/welcome.jpg" alt="Tiawa hero — URL shortener with instant QR code" width="90%">
+  <br>
+  <em>Paste any URL, get a short link and QR code instantly — no login required.</em>
+</p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+---
+
+## 🚀 How to Use Tiawa
+
+### Step 1 — Paste your URL
+
+Navigate to the Tiawa homepage. In the input field at the centre of the page, paste any long URL — a product page, booking form, social media profile, event registration, or campaign landing page.
+
+### Step 2 — Click "Shorten Link"
+
+Hit the **Shorten Link** button. Within milliseconds, a result card appears below the form showing:
+
+- Your new **short URL** (click to open, or use the copy button)
+- The **original URL** for reference
+- A **QR code** panel on the right — click **↓ Download QR** to save it as an SVG file
+
+### Step 3 — Share & track
+
+Copy the short link and share it anywhere — WhatsApp broadcasts, Instagram bios, printed flyers, email campaigns, or SMS. To unlock full click analytics, device stats, and link management, create a free account.
+
+---
+
+## 🌍 Built for Real-World Campaigns
+
+<p align="center">
+  <img src="assets/use-case.jpg" alt="Tiawa use cases — Small businesses, churches, WhatsApp campaigns, developers" width="90%">
+  <br>
+  <em>From street-side vendors to enterprise teams — Tiawa adapts to every campaign type.</em>
+</p>
+
+| Who | How they use Tiawa |
+|-----|--------------------|
+| 🏪 **Small Businesses** | Share menus, product catalogues, or booking pages with a clean short link on WhatsApp and Instagram |
+| ⛪ **Churches & Events** | Print QR codes on flyers and programmes; see how many people scanned and registered |
+| 📱 **WhatsApp Campaigns** | Replace messy long links in broadcasts with short, branded URLs that are easy to remember |
+| 👩‍💻 **Developers & Agencies** | Integrate link shortening and analytics into SaaS products or client campaigns via the API |
+
+---
+
+## 📊 Platform Stats
+
+| Metric | Value |
+|--------|-------|
+| Links Shortened | 10,000+ |
+| Clicks Tracked | 50,000+ |
+| Countries Reached | 15+ |
+| Uptime | 99.9% |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend:** Laravel (PHP)
+- **Frontend:** Blade templates, Alpine.js, Tailwind CSS
+- **Build tool:** Vite
+- **QR generation:** Server-side SVG
+- **Database:** MySQL / compatible
+
+---
+
+## ⚙️ Local Development Setup
+
+```bash
+# 1. Clone the repository
+git clone <repo-url>
+cd tiawa
+
+# 2. Install PHP dependencies
+composer install
+
+# 3. Install JS dependencies
+npm install
+
+# 4. Copy environment file and configure your DB & APP_URL
+cp .env.example .env
+php artisan key:generate
+
+# 5. Run migrations
+php artisan migrate
+
+# 6. Start the development server
+php artisan serve
+
+# 7. In a separate terminal, compile assets
+npm run dev
+```
+
+Visit `http://localhost:8000` in your browser.
+
+---
+
+## 📄 License
+
+Proprietary — all rights reserved. Contact the project owner for licensing enquiries.
 
 ## Contributing
 
