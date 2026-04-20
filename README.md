@@ -2,7 +2,7 @@
   <img src="assets/welcome.jpg" alt="Tiawa — Short links with Africa-first insights" width="100%">
 </p>
 
-# Tiawa — Smarter Short Links for Africa
+# Tiawa — Smarter Short Links for your business
 
 > Shorten URLs, generate QR codes, and track every click — built for businesses growing across Africa and beyond.
 
