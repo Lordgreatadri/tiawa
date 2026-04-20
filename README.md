@@ -15,7 +15,7 @@ Tiawa is a modern link management platform that turns long, unwieldy URLs into c
 - **Instant URL Shortening** — Convert any long URL into a compact short link in under a second. No account needed to get started.
 - **QR Code Generation** — Every short link automatically gets a scannable QR code, ready to share digitally or print on physical materials.
 - **Click Analytics** — Track every click with device type, browser, time of day, and geographic location data (available on registration).
-- **Africa-First Insights** — Audience breakdowns tailored for the African market: Ghana, Nigeria, Kenya, and beyond.
+
 - **Rate-Limited & Fair** — Free usage is IP-limited to 10 links per hour to keep the service fast and available for everyone.
 - **Developer API** — Integrate link shortening and analytics directly into your SaaS, app, or client campaigns.
 
